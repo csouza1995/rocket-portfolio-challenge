@@ -1,0 +1,24 @@
+/* font Inconsolata from Google Fonts */
+@font-face {
+    font-family: 'Inconsolata';
+    src: url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* style */
+#hero {
+    background-image: url('./img/bg-hero.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#links {
+    background-image: url('./img/bg-links.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.font-inconsolata {
+    font-family: 'Inconsolata', monospace;
+}
